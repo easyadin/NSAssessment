@@ -1,0 +1,7 @@
+{
+  "name": "NSAssessment",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
